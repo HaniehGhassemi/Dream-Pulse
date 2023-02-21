@@ -13,7 +13,7 @@
 <li>The basic structure of the page with div tag</li>
 <li>Create a vertical sidebar with a different color in different parts of the page</li>
 <li>Create a form that have one border</li>
-<li>z-index:5 style</li>
+<li>z-index style</li>
 <li>list style type for nav tag</li>
 <li>Flex display</li>
 <li>styles for p tag</li>
