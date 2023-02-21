@@ -1,9 +1,9 @@
 <h1>:dizzy: Dream-Pulse</h1>
 <p><a href="https://www.free-css.com/free-css-templates/page262/dream-pulse">Dream Plus</a> is a free website template that I I re-implemented this format for deep learning of pure HTML and CSS</p>
 <br>
-<h2>:hammer_and_wrench: My Tools<h2>
+<h2>:hammer_and_wrench: My Tools</h2>
 <ul>
-<li>VS Code</li>
+<li><a href="https://code.visualstudio.com">VS Code</a></li>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">Prettier</a></li>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a></li>
 </ul>
